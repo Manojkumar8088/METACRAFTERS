@@ -1,4 +1,4 @@
-# METACRAFTERS
+
 
 Final-project/challenge
 Creating, minting, and burning your own custom coin on the Ethereum blockchain using Solidity.
